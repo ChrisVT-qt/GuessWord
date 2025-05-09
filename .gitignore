@@ -1,0 +1,5 @@
+.DS_Store
+/build
+/GuessWord.app
+GuessWord.pro.user
+qrc_GuessWord.cpp
