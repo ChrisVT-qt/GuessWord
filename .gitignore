@@ -3,3 +3,6 @@
 /GuessWord.app
 GuessWord.pro.user
 qrc_GuessWord.cpp
+Makefile
+.qmake.stash
+Makefile
